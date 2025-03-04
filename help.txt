@@ -1,0 +1,9 @@
+!!!!!!!Step by step run the game !!!!!!!!
+
+1 - install python3.6 or above 
+2 - install pygame with pip ---- > open terminal or cmd and copy this ---- > pip install pygame --- > on linux pip3 install pygame 
+3 - install a required library if you're using windows ----> open cmd and copy this ----> pip install windows-curses
+
+FINAL STEP - run the game with python3 Bug-Runner.py 
+
+
